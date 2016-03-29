@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sothree.slidinguppanel.SlidingUpPanelLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/sliding_layout"
+    app:umanoPanelHeight="168dp"
+    app:umanoShadowHeight="4dp"
+    app:umanoParallaxOffset="100dp"
+    app:umanoDragView="@+id/dragView"
+    app:umanoOverlay="true"
+    android:gravity="bottom"
+    app:umanoScrollableView="@+id/list"
+    tools:context="com.sothree.slidinguppanel.demo.SecondActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="visible"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list"
+        >
+    </android.support.v7.widget.RecyclerView>
+
+</com.sothree.slidinguppanel.SlidingUpPanelLayout>

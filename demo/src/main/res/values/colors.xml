@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="whitesmoke">#F5F5F5</color>
+    <!-- 烟白色 -->
+    <color name="sliver_grey">#666666</color>
+    <!-- 默认文本颜色 -->
+    <color name="default_text_color">#333333</color>
+    <!-- 默认文本获取焦点时的颜色 -->
+    <color name="default_text_focus_color">#666</color>
+    <!-- 默认橙色图标、文字的颜色 -->
+    <color name="default_orange_color">#FF6900</color>
+    <!-- 默认橙色图标、文字获取焦点时的颜色 -->
+    <color name="default_orange_focus_color">#f78e6f</color>
+    <color name="deep_orange_color">#9f3308</color>255246158
+    <!-- 默认绿色图标、文字的颜色 -->
+    <color name="default_green_color">#390</color>
+
+    <color name="default_red_color">#f40909</color>
+    <!-- 默认绿色图标、文字获取焦点时的颜色 -->
+    <color name="default_green_focus_color">#5da03c</color>
+    <!-- 蓝色 -->
+    <color name="default_blue_color">#5a8ae2</color>
+    <color name="light_blue">#90b1ed</color>
+    <color name="attendance_blue">#3D7AEA</color>
+    <color name="attendance_blue_detail">#4C82EA</color>
+    <color name="attendance_win">#FFE21C</color>
+
+
+
+
+
+    <!--默认灰色-->
+    <color name="default_grey_color">#666666</color>
+
+    <!-- 默认边框颜色 -->
+    <color name="default_border_color">#ddd</color>
+    <color name="filter_tv_normal_color">#eeeeee</color>
+    <color name="filter_tv_focus_color">#C2C2C2</color>
+    <color name="splite_color">#D3D3D3</color>
+    <color name="white">#ffffff</color>
+    <color name="yellow">#fefb02</color>
+    <color name="black">#000000</color>
+    <color name="user_black">#414141</color>
+    <color name="snackbar_action_text_color">#ef327d</color>
+    <color name="background_tab_pressed">#6633B5E5</color>
+    <color name="tab_select_bg">#2EAF01</color>
+    <color name="lib_transparent">#00000000</color>
+    <!-- 默认页面背景颜色 -->
+    <color name="default_page_backgroud_color">#f8f8f8</color>
+    <color name="calendar_active_month_bg">#fff5f7f9</color>
+    <color name="calendar_bg">#ffffffff</color>
+    <color name="calendar_divider">#ffbababa</color>
+    <color name="calendar_inactive_month_bg">#ffd7d9db</color>
+    <color name="calendar_selected_day_bg">#ff379bff</color>
+    <color name="calendar_highlighted_day_bg">#ccffcc</color>
+    <color name="calendar_selected_range_bg">#ff96caff</color>
+    <color name="calendar_text_inactive">#40778088</color>
+    <color name="calendar_text_active">#ff778088</color>
+    <color name="calendar_text_selected">#ffffffff</color>
+    <color name="calendar_text_unselectable">#7f778088</color>
+    <color name="yfq_text_lable">#999999</color>
+    <color name="yfq_text_content">#666666</color>
+    <color name="rippelColor">#FFFFFF</color>
+    <color name="ll_title_color">#DFffffff</color>
+    <color name="customer_color">#333</color>
+    <color name="customer_footprint_head">#efefef</color>
+    <color name="footprint_head_title">#858585</color>
+    <color name="order_pay_money_color">#8f8f8f</color>
+    <color name="orderprogress_color">#727272</color>
+    <color name="message_dialog_color">#00000000</color>
+
+
+
+    <color name="default_circle_indicator_page_color">#aeaeae</color>
+    <!-- 引导页指示圆圈颜色 -->
+    <color name="circle_indicator_normal_color">#9eefff</color>
+    <color name="circle_indicator_focus_color">#1d99f6</color>
+
+    <!-- android lib -->
+    <color name="androidlib_color_gray">#999999</color>
+    <color name="androidlib_color_orange">#fa5728</color>
+    <color name="text_lable_color">#999999</color>
+    <color name="color_orange_title">#ff7800</color>
+
+
+    <color name="abs__background_holo_dark">#ff000000</color>
+    <color name="abs__background_holo_light">#fff3f3f3</color>
+    <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_light</color>
+    <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_dark</color>
+    <color name="abs__bright_foreground_disabled_holo_dark">#ff4c4c4c</color>
+    <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
+
+    <!-- 烟灰色 -->
+    <color name="house_detail_line_grey">#e1e1e1</color>
+    <color name="house_detail_facility_grey">#cfcfcf</color>
+    <color name="house_detail_facility_line_grey">#d9d9d9</color>
+    <color name="house_detail_facility_icon">#828282</color>
+    <color name="house_detail_grey">#818181</color>
+    <color name="house_detail_orange">#ff7800</color>
+    <color name="report_gray_bg">#f1f1f2</color>
+
+
+    <!-- Mddialog-->
+    <color name="card_background">#ffffff</color>
+    <color name="card_shadow">#10000000</color>
+    <color name="lite_blue">#ff359ff2</color>
+    <color name="window_background">#00000000</color>
+
+    <color name="table_icon_select">#ffffe80e</color>
+    <color name="chat_room_notification">#FFF69E</color>
+
+    <!--md设计-->
+    <color name="mid_grey">#40808080</color>
+</resources>
